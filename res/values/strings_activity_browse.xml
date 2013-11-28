@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_redeem">Redeem a drink</string>
+    <string name="show_drinks_before">You have </string><string name="show_drinks_after"> drinks</string>
+    <string name="dialog_no_drink">Sorry, you don\'t have a drink to cash in</string>
+    <string name="dialog_browse_error_button">Exit</string>
+    <string name="dialog_no_drink_button">Aww, okay</string>
+    <string name="dialog_redeem_drink_before">Make sure to thank </string>
+    <string name="dialog_redeem_drink_after"> for this lovely drink!</string>
+    <string name="dialog_redeem_drink_button">Thanks!</string>
+    <string name="dialog_cancel_redeem_drink">I\'ll have it later!</string>
+    
+    
+</resources>
